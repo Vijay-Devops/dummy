@@ -12,5 +12,8 @@ export class EmployeeComponent implements OnInit {
 
   ngOnInit() {
   }
+  public hello(){
+    
+  }
 
 }
